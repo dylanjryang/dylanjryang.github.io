@@ -1,0 +1,189 @@
+@charset "utf-8";
+body {
+    background-image: url(../images/pexels-johannes-plenio-1103970.jpg);
+    background-size: cover;
+}
+.index {
+    text-align: center;
+    font-size: 1000px;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(252,252,252,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(252,252,252,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(252,252,252,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(252,252,252,1.00) 100%);
+    background-color: #256DEB;
+    border-radius: 23px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-width: medium;
+    border-style: double;
+}
+body p {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #FFFFFF;
+    border-radius: 26px;
+    padding-top: 14px;
+    padding-right: 14px;
+    padding-bottom: 14px;
+    padding-left: 14px;
+    border-style: double;
+}
+.middle {
+    text-align: center;
+}
+
+.child1 {
+    flex: 1;
+}
+.child2 {
+    flex: 1;
+}
+.flex .child2 img {
+    width: 100%;
+}
+
+.flex {
+    width: 80%;
+    display: flex;
+    border-style: dotted;
+    padding-left: 0px;
+    margin-left: 10%;
+}
+body h3 {
+    text-align: center;
+}
+.carousel-inner .carousel-item .d-block.mx-auto {
+    height: 600px;
+    overflow: hidden;
+    object-fit: cover;
+    border-radius: 20px;
+    border: thick double #8284ED;
+}
+#table0 {
+    width: 80%;
+    margin-left: 10%;
+    border: medium solid #001DFF;
+    background-color: #FFFFFF;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#table1 {
+    width: 80%;
+    margin-left: 10%;
+    background-color: #FFFFFF;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border: medium dotted #A2E819;
+}
+
+td {
+    width: 25%;
+    padding-top: 11px;
+    padding-right: 11px;
+    padding-bottom: 11px;
+}
+th {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+aside ol li {
+    line-height: 200%;
+}
+
+tr td iframe {
+    width: 100%;
+}
+tr td img {
+    width: 100%;
+}
+
+
+
+.tablepadding {
+    padding-left: 10px;
+}
+body aside {
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    border: medium dotted #000000;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-right: 10%;
+    width: 45%;
+    float: right;
+    height: 250px;
+
+}
+
+.image3 {
+    margin-right: 0px;
+    margin-left: 10%;
+    width: 30%;
+    border-radius: 13px;
+    border-style: solid;
+    border-color: #1A10FF;
+    height: 250px;
+}
+
+body ul {
+}
+.flexul {
+    width: 80%;
+    margin-left: 10%;
+    background-color: #E8B228;
+    border-radius: 20px;
+    border-color: #1A00FF;
+    border-style: groove;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.ul2 {
+    width: 25%;
+    background-color: #E8B228;
+    border-radius: 20px;
+    border-color: #1A00FF;
+    border-style: groove;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-right: 10%;
+    float: right;
+}
+
+aside ol li {
+}
+.indented  {
+    margin-left: 50px;
+}
+.image1 {
+    height: 300px;
+    width: 24.5%;
+    border-style: solid;
+    border-radius: 20px;
+
+}
+.yes {
+    width: 100%;
+}
+.bootstrapform {
+    margin-left: 10%;
+    width: 80%;
+    background-color: #619FE9;
+    padding-top: 13px;
+    padding-right: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    border-radius: 18px;
+    border-style: double;
+    margin-top: 250px;
+}
